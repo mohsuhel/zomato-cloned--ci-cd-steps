@@ -15,6 +15,8 @@ Step 6 — Docker Image Build and Push
 Step 7 — Deploy the image using Docker
 Step 8 — Terminate the AWS EC2 Instances.
 
+# Note : You can use the  Elastic Ip if needed !!
+
 # Let’s Start …..
 
 # Step -1 :    Launch an Ubuntu(22.04) T2 Large Instance.
